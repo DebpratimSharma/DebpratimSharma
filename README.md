@@ -1,5 +1,5 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/debpratim-sharma-916203267/">LinkedIn<a/> <br>🌱 I’m currently learning Backend, Blockchain and GCP<br>💬 Ask me about anything(Even if I don't know. I'll learn something new)<br>
+# About Me:
+I’m looking to collaborate on <a href="https://www.linkedin.com/in/debpratim-sharma-916203267/">LinkedIn<a/> <br> I’m currently learning Backend, Blockchain and GCP<br>Ask me about anything(Even if I don't know. I'll learn something new)<br>
 
 
 # 💻 Tech Stack:
