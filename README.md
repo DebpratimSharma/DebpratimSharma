@@ -1,9 +1,42 @@
-# About Me:
-I’m looking to collaborate on <a href="https://www.linkedin.com/in/debpratim-sharma-916203267/">LinkedIn<a/> <br> I’m currently learning Backend, Blockchain and GCP<br>Ask me about anything(Even if I don't know. I'll learn something new)<br>
+# Debpratim Sharma ⚡
 
+I’m a final-year Electrical Engineering student who writes full-stack software. Because of my background, I approach software from a systems perspective—whether that means optimizing a database index, structuring a Next.js frontend, writing lightweight backends in Go, or handling hardware interrupts on an ESP32.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+- 🛠️ Currently leading [SCEEAOT](https://sceeaot.in) as **Convenor**, driving peer-learning and technical workshops.
+- 💼 Looking for **Full-Stack**, **Backend**, or **Frontend** engineering roles.
+- 🌐 Portfolio: [debprix.in](https://debprix.in) | 📬 Contact: [debpratimsharma33@gmail.com](mailto:debpratimsharma33@gmail.com)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 What I've Built
+
+📂 **[DonorFi](https://donorfi.vercel.app)**
+> A decentralized web3 application deployed on Solana designed to eliminate middlemen in charitable giving, using smart contracts for transparent financial tracking.
+> `Next.js` `Solana` `TypeScript` `Tailwind CSS` `Shadcn UI`
+
+📂 **[Schedura OS](https://scheduraos.vercel.app)**
+> A production-grade academic tracker that handles messy college routines, real-time attendance analytics, and dynamic holiday schedules with persistent client-side state.
+> `Next.js` `Supabase` `TypeScript` `Tailwind CSS` `Shadcn UI`
+
+📂 **[AI Voice Translator](https://ai-voice-translator.vercel.app/)**
+> An end-to-end speech pipeline utilizing Web Media APIs to capture audio, pipe it through OpenAI's translation layers, and synthesize native text-to-speech via ElevenLabs with minimal latency.
+> `Next.js` `OpenAI API` `ElevenLabs API` `Web Audio APIs` `TypeScript`
+
+---
+
+### 💼 Experience
+
+| Timeline | Role & Organization | Core Focus & Contributions |
+| :--- | :--- | :--- |
+| **2026 – Present** | **Convenor** <br> *Student Chapter of Electrical Engineering, AOT* | Leading the technical roadmap for the chapter. Organizing hands-on code workshops, handling faculty alignment, and mentoring juniors crossing over from EE fundamentals into software. |
+| **2025 – 2026** | **Tech Team Member** <br> *GDG On Campus – Academy of Technology* | Part of the core engineering team coordinating large-scale campus hackathons. Handled participant onboarding logistics, infrastructure prep, and tool deployments via Google Cloud Console. |
+| **2024 – 2025** | **Tech Team Member** <br> *Student Chapter of Electrical Engineering, AOT* | Engineered and maintained production-facing web platforms for internal department activities. Managed domain configurations, HTTPS deployments, and cross-team feature rollouts. |
+
+---
+
+### 🛠️ Technical Stack
+
+- **Languages:** `TypeScript` `JavaScript` `Go` `Java` `C/C++` `Embedded C`
+- **Frontend Architecture:** `React` `Next.js` `Tailwind CSS` `Framer Motion` `Shadcn UI`
+- **Backend & State:** `Node.js` `Express` `Supabase` `MongoDB` `PostgreSQL` `MQTT`
+- **Infrastructure & Tools:** `Git` `Docker` `Vercel` `Google Cloud Platform (GCP)` `AWS` `Figma`
