@@ -1,14 +1,14 @@
-# Debpratim Sharma ⚡
+# Debpratim Sharma ⚡︎
 
 I’m a final-year Electrical Engineering student who writes full-stack software. Because of my background, I approach software from a systems perspective—whether that means optimizing a database index, structuring a Next.js frontend, writing lightweight backends in Go, or handling hardware interrupts on an ESP32.
 
-- 🛠️ Currently leading [SCEEAOT](https://sceeaot.in) as **Convenor**, driving peer-learning and technical workshops.
-- 💼 Looking for **Full-Stack**, **Backend**, or **Frontend** engineering roles.
-- 🌐 Portfolio: [debprix.in](https://debprix.in) | 📬 Contact: [debpratimsharma33@gmail.com](mailto:debpratimsharma33@gmail.com)
+* `>` **Convenor** : Currently leading [SCEEAOT](https://sceeaot.in), driving peer-learning and technical workshops.
+* `$` **Status** : Looking for **Full-Stack**, **Backend**, or **Frontend** engineering roles.
+* `#` **Connect** : Portfolio: [debprix.in](https://debprix.in) | Contact: [debpratimsharma33@gmail.com](mailto:debpratimsharma33@gmail.com)
 
 ---
 
-### 🚀 What I've Built
+###  What I've Built
 
 📂 **[DonorFi](https://donorfi.vercel.app)**
 > A decentralized web3 application deployed on Solana designed to eliminate middlemen in charitable giving, using smart contracts for transparent financial tracking.
@@ -24,7 +24,7 @@ I’m a final-year Electrical Engineering student who writes full-stack software
 
 ---
 
-### 💼 Experience
+###  Experience
 
 | Timeline | Role & Organization | Core Focus & Contributions |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ I’m a final-year Electrical Engineering student who writes full-stack software
 
 ---
 
-### 🛠️ Technical Stack
+###  Technical Stack
 
 - **Languages:** `TypeScript` `JavaScript` `Go` `Java` `C/C++` `Embedded C`
 - **Frontend Architecture:** `React` `Next.js` `Tailwind CSS` `Framer Motion` `Shadcn UI`
