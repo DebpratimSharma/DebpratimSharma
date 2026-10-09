@@ -29,7 +29,7 @@ I’m a final-year Electrical Engineering student who writes full-stack software
 | Timeline | Role & Organization | Core Focus & Contributions |
 | :--- | :--- | :--- |
 | **2026 – Present** | **Convenor** <br> *Student Chapter of Electrical Engineering, AOT* | Leading the technical roadmap for the chapter. Organizing hands-on code workshops, handling faculty alignment, and mentoring juniors crossing over from EE fundamentals into software. |
-| **2025 – 2026** | **Tech Team Member** <br> *GDG On Campus – Academy of Technology* | Part of the core engineering team coordinating large-scale campus hackathons. Handled participant onboarding logistics, infrastructure prep, and tool deployments via Google Cloud Console. |
+| **2025 – 2026** | **Tech Team Member** <br> *GDG On Campus – Academy of Technology* | Part of the core engineering team coordinating large-scale campus hackathons. Handled participant onboarding logistics, infrastructure prep, mentored students on Google Cloud Console. |
 | **2024 – 2025** | **Tech Team Member** <br> *Student Chapter of Electrical Engineering, AOT* | Engineered and maintained production-facing web platforms for internal department activities. Managed domain configurations, HTTPS deployments, and cross-team feature rollouts. |
 
 ---
